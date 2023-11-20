@@ -26,10 +26,10 @@ Some examples where the static analysis breaks are.
 This is a dynamic analysis solution where a playbook has to be executed and certain dumps collected, which is then is used for generating the tree. Checkout the below screenshots of the UI it gives you.
 
 Execution Flow
-![Running View](https://github.com/arunsatyarth/Ansible-explorer/blob/main/img/1.PNG)
+![Running View](https://github.com/arunsatyarth/Ansible-explorer/blob/main/img/4.PNG)
 
 Toggle buttons to view Params, Response etc
-![Running View](https://github.com/arunsatyarth/Ansible-explorer/blob/main/img/2.PNG)
+![Running View](https://github.com/arunsatyarth/Ansible-explorer/blob/main/img/3.PNG)
 
 # How to use
 Currently, this solution needs some guidene to setup and hence is only available on demand. Get in touch with me at arun.satyarth@gmail.com and I will help with setting it up. Its a one time setup after which it can be operated without any overseeing. 

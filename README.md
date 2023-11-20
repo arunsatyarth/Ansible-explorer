@@ -29,7 +29,7 @@ Execution Flow
 ![Running View](https://github.com/arunsatyarth/Ansible-explorer/blob/main/img/1.PNG)
 
 Toggle buttons to view Params, Response etc
-![Running View](https://github.com/arunsatyarth/Ansible-explorer/blob/main/img/2.PNG)
+![Running View](https://github.com/arunsatyarth/Ansible-explorer/blob/main/img/3.PNG)
 
 # How to use
 Currently, this solution needs some guidene to setup and hence is only available on demand. Get in touch with me at arun.satyarth@gmail.com and I will help with setting it up. Its a one time setup after which it can be operated without any overseeing. 
